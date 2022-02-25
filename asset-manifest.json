@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AfricanBoutique/static/css/main.b6e6a345.css",
+    "main.js": "/AfricanBoutique/static/js/main.bc1cd9d8.js",
+    "static/js/787.cda612ba.chunk.js": "/AfricanBoutique/static/js/787.cda612ba.chunk.js",
+    "index.html": "/AfricanBoutique/index.html",
+    "main.b6e6a345.css.map": "/AfricanBoutique/static/css/main.b6e6a345.css.map",
+    "main.bc1cd9d8.js.map": "/AfricanBoutique/static/js/main.bc1cd9d8.js.map",
+    "787.cda612ba.chunk.js.map": "/AfricanBoutique/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e6a345.css",
+    "static/js/main.bc1cd9d8.js"
+  ]
+}
